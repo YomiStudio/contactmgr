@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto|Ubuntu');
+* {
+	font-family: 'Montserrat', sans-serif;
+}
+body{
+	padding-top: 10px;
+}
+
+/* required style*/ 
+.none{display: none;}
+
+a, a:link{
+	text-decoration: none;
+	outline: none;
+	color: #444;
+	margin-top:10px;
+	background-color: none;
+}
+
+table{
+	margin-top:10px;
+}
+
+#report {
+	width: 100%;
+}
