@@ -17,7 +17,7 @@ I should be able to delete my contact
 I should be able to search for a contact by any field
 
 I should be able to edit my contacts.
-
+Database is on mysql
 Testing:
 username: admin
 password: qwerty
